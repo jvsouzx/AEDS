@@ -1,3 +1,3 @@
 # AEDS
 
-Trabalhos e estruturas utilizados na diciplina de Algoritmos e Estruturas de Dados.
+Trabalhos e estruturas utilizados nas diciplinas de Algoritmos e Estruturas de Dados I e II.
